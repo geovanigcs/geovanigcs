@@ -12,5 +12,7 @@
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
      <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+    <img align="center" height="30" width="40" alt="Django" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg">
    </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d2f7c&height=120&section=footer"/>
