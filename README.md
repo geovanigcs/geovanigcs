@@ -5,7 +5,7 @@
 ---
 
 # 👋 Olá, bem-vindo ao meu perfil no GitHub! 🇧🇷  
-_Read this in other languages: [English](./README_EN.md) 🇺🇸🇬🇧_
+_Read this in other languages: [English](https://github.com/geovanigcs/geovanigcs/blob/main/REDME_EN.md) 🇺🇸🇬🇧_
 
 Sou **Geovani Cordeiro**, desenvolvedor Full Stack apaixonado por criar aplicações modernas, eficientes e centradas no usuário.  
 Aqui você encontrará meus projetos, estudos e tudo o que venho construindo ao longo da minha jornada como desenvolvedor.
