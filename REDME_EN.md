@@ -98,6 +98,8 @@ System for managing institutional programs and collaborators.
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img height="30" width="40" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg">
+    <img height="30" width="40" src="[https://static.djangoproject.com/img/logos/django-logo-positive.svg](https://github.com/nimasfl/nestjs-icons/blob/master/file_type_nestjs.svg)">
+    
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d2f7c&height=120&section=footer"/>
