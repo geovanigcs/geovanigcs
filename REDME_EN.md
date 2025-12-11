@@ -4,7 +4,6 @@
 
 ---
 
-# 👋 Welcome to my GitHub profile! 🇺🇸🇬🇧  
 _Read this in other languages: [Português](https://github.com/geovanigcs/geovanigcs/blob/main/README.md) 🇧🇷_
 
 I'm **Geovani Cordeiro**, a Full Stack Developer passionate about building modern, efficient, and user-focused applications.  
@@ -78,10 +77,6 @@ System for managing institutional programs and collaborators.
 
 ### 🎯 Interested in learning:
 - Go, Swift, Java, C, C++, Ruby  
-
-### 📎 Previously worked with:
-All the technologies listed above — including real-world projects in both front-end and back-end.
-
 ---
 
 # 📫 Contact
