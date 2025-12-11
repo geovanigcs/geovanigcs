@@ -98,7 +98,8 @@ System for managing institutional programs and collaborators.
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img height="30" width="40" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg">
-    <svg height="30" width="40" src="[https://static.djangoproject.com/img/logos/django-logo-positive.svg](https://github.com/nimasfl/nestjs-icons/blob/master/file_type_nestjs.svg)">
+    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     
 </div>
 
